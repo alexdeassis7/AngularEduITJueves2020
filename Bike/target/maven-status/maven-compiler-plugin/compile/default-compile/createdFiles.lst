@@ -1,0 +1,6 @@
+com\utn\bike\models\Bike.class
+com\utn\bike\BikeApplication.class
+com\utn\bike\controllers\BokeController.class
+com\utn\bike\models\Persona.class
+com\utn\bike\repositories\BikeRepository.class
+com\utn\bike\controllers\PersonaController.class
